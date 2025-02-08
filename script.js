@@ -1,2 +1,2 @@
-const pi = Math.PI;
-console.log(pi)
+const a = null;
+console.log(typeof a); // null
