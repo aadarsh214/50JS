@@ -1,3 +1,4 @@
+let first = " Aadarsh";
+let last = " Gupta";
 
-const year = new Date()
-console.log(year.getFullYear())
+console.log(first + "" + last);
