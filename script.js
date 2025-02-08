@@ -1,1 +1,3 @@
-console.log(45*2-10)
+
+const year = new Date()
+console.log(year.getFullYear())
