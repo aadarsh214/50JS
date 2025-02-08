@@ -1,4 +1,4 @@
-let first = " Aadarsh";
-let last = " Gupta";
-
-console.log(first + "" + last);
+let a = 4;
+console.log(a);
+a = 21;
+console.log(a); 
