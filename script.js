@@ -1,1 +1,2 @@
-console.log(12*12)
+let a = true
+console.log(typeof(a))
