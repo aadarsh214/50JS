@@ -1,1 +1,1 @@
-console.error(err);
+console.log(12*12)
