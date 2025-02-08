@@ -1,1 +1,2 @@
-console.log(100/0)
+const pi = Math.PI;
+console.log(pi)
