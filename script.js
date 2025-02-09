@@ -1,2 +1,3 @@
-let a = 2 , b ="13" , c= true;
-console.log(a + b)
+const arr = []
+arr = [1,2]
+console.log(arr)
