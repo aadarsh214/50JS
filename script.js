@@ -1,2 +1,2 @@
-const a = "33"
-console.log(typeof a)
+let a = 2 , b ="13" , c= true;
+console.log(a + b)
