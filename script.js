@@ -1,2 +1,2 @@
-const a = null;
-console.log(typeof a); // null
+const a = "33"
+console.log(typeof a)
