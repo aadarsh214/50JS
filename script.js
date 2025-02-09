@@ -1,3 +1,3 @@
-const arr = []
-arr = [1,2]
-console.log(arr)
+for(i = 0 ; i< 50; i++){
+    console.log(i);   
+}
