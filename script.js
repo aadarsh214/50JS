@@ -1,5 +1,6 @@
-let str =  "javascript";
-for(let char of str){
-    console.log(char);
-}   //for of loop
-// Output: j a v a s c r i p t
+let a = 5
+do{
+    console.log(a)
+    a--
+}
+while(a > 0)
