@@ -1,7 +1,5 @@
-
-let sum = 0;
-while(i<11){
-    sum = sum + i
-    i++;
-}
-console.log(sum);
+let str =  "javascript";
+for(let char of str){
+    console.log(char);
+}   //for of loop
+// Output: j a v a s c r i p t
