@@ -1,3 +1,7 @@
-for(i = 0 ; i< 50; i++){
-    console.log(i);   
+
+let sum = 0;
+while(i<11){
+    sum = sum + i
+    i++;
 }
+console.log(sum);
