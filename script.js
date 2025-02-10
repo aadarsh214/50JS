@@ -1,4 +1,3 @@
 let arr = ["a", "b", "c"];
-arr.unshift("p")
-
-console.log(arr)
+arr.pop();
+console.log( arr ); // [ 'a', 'b' ]
