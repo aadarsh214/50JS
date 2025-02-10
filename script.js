@@ -1,3 +1,2 @@
-let arr = ["a", "b", "c"];
-arr.pop();
-console.log( arr ); // [ 'a', 'b' ]
+let arr = ["a", "b", "c", "d", "e"];
+console.log(arr.slice(1,3));
