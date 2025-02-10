@@ -1,6 +1,10 @@
-let num = 1;
-while(num < 101){
-    if(num%5 === 0) console.log(num)
-    num++
-
+let obj = {
+    name: 'John',
+    age: 30,
+    isMarried: false
 }
+
+for (let key in obj){{
+    console.log(key)
+    console.log(obj[key])
+}}
