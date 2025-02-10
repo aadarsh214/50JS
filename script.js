@@ -1,10 +1,6 @@
-//use for loop to reverse an array
+let num = 1;
+while(num < 101){
+    if(num%5 === 0) console.log(num)
+    num++
 
-var arr= [1,2,3,4,5]
-for(let i = 0; i< arr.length/2; i++) {
-    let temp =  arr[i]
-    arr[i] = arr[arr.length - 1 - i]
-    arr[arr.length - 1 - i] = temp
 }
-
-console.log(arr) // output: [5, 4, 3, 2, 1]
