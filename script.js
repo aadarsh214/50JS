@@ -1,4 +1,4 @@
 let arr = ["a", "b", "c"];
-arr.forEach(function(value){
-    console.log(value);
-})
+arr.unshift("p")
+
+console.log(arr)
