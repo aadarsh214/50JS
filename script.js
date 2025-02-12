@@ -1,3 +1,5 @@
-let arr = ["a", "b", "c", "d", "e"];
-let arr2 = [...arr]
-console.log(arr2); // ["a", "b", "c", "d", "e", 1, 2]
+function checker(str,char){
+    return str.startsWith(char);
+}
+
+console.log(checker("hello","h")); // true
