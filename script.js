@@ -1,5 +1,5 @@
 function checker(str,char){
-    return str.startsWith(char);
+    return str.endsWith(char);
 }
 
-console.log(checker("hello","h")); // true
+console.log(checker("hello","o")); // true
