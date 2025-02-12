@@ -1,10 +1,5 @@
-function greaterThan(a,b){
-    if(a>b){
-        return a
-    }
-    else{
-        return b
-    }
+function rev(value){
+    return value.split('').reverse().join('');
 }
 
-console.log(greaterThan(99,5)) // Output: 5
+console.log(rev("aad "))
